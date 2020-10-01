@@ -1,0 +1,4 @@
+Who is the greatest person on Earth? (a)Udbhav (b)Nasser (c)Yourself (d)Khalil 
+Name the disease which ruined your summer. (a)Malaria (b)Typhoid (c)COVID-19 (d)Jaundice
+Which programming language is this quiz written in? (a)C++ (b)Java (c)R (d)Python
+Which is the best kind of food? (a)Healthy (b)Junk (c)Diet (d)Fibrous 
